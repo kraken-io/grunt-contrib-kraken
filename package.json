@@ -1,12 +1,12 @@
 {
-  "name": "grunt-kraken",
+  "name": "grunt-contrib-kraken",
   "version": "0.1.0",
   "description": "Grunt plugin to optimize all your images with the powerful Kraken.io API",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kraken-io/grunt-kraken"
+    "url": "git://github.com/kraken-io/grunt-contrib-kraken"
   },
   "scripts": {
     "test": "mocha"
@@ -52,7 +52,7 @@
     "mocha": "*"
   },
   "bugs": {
-    "url": "https://github.com/kraken-io/grunt-kraken/issues"
+    "url": "https://github.com/kraken-io/grunt-contrib-kraken/issues"
   },
   "homepage": "https://kraken.io"
 }
