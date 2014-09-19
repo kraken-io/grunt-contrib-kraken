@@ -12,7 +12,8 @@
     "test": "mocha"
   },
   "files": [
-    "index.js"
+    "tasks",
+    "LICENSE"
   ],
   "author": {
     "name": "Przemek Matylla",
