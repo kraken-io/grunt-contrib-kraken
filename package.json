@@ -1,6 +1,6 @@
 {
   "name": "grunt-contrib-kraken",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Grunt plugin to optimize all your images with the powerful Kraken.io API",
   "main": "index.js",
   "license": "MIT",
