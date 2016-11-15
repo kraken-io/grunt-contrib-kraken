@@ -25,6 +25,6 @@ grunt.initConfig({
     }
 });
 
-grunt.loadNpmTasks('grunt-kraken');
+grunt.loadNpmTasks('grunt-contrib-kraken');
 grunt.registerTask('default', ['kraken']);
 ````
