@@ -3,7 +3,7 @@ grunt-kraken
 
 Grunt plugin to optimize all your images with the powerful Kraken.io API
 
-````
+````javascript
 var grunt = require('grunt');
 
 grunt.initConfig({
