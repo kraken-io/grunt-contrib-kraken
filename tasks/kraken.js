@@ -39,7 +39,9 @@ module.exports = function (grunt) {
             var opts = {
                 file: file.src[0],
                 lossy: options.lossy || false,
-                wait: true
+                wait: true,
+                convert: options.convert || undefined,
+                quality: options.quality || undefined
             };
 
             kraken.upload(opts, function (data) {
